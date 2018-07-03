@@ -6,11 +6,11 @@ class Card
     @suit = suit_argument
   end
 
-  def get_value
+  def value
     @value
   end
 
-  def get_suit
+  def suit
     @suit
   end
 
